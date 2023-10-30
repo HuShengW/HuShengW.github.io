@@ -22,8 +22,11 @@ Information and Communication Engineering & [National Key Laboratory of Radar Si
 ======
 <b> Husheng Wang </b> is currently a Ph.D Candidate in the School of Electronic Engineering, Xidian University, advised by Prof. Baixiao Chen. He studied as a Ph.D. student at Xidian University in 2022 under the supervision of Prof. Baixiao Chen, both in the National Key Laboratory of Radar Signal Processing. He received his B.S. degree in Information Countermeasure Technology from Xidian University in 2019.
 
- 
 :books: Research Interests
 ======
 My research interests include but not limited to <b> Radar Signal Processing, Radar Anti-Jamming, Reinforcement Learning, Intelligent Decision Making, Target Detection, Cognitive Radar...</b>
+
+:newspaper: Selected Publications and Patents
+======
+I have published 10 papers and 6 patents. 
 

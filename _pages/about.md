@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic page of Husheng Wang"
+title: "Academic personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

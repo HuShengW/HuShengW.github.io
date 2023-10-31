@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="b"> <h1> Husheng Wang | 王湖升 </h1> </div>
 
-**Ph.D Candidate**
+**Ph.D. Candidate**
 
 Information and Communication Engineering & [National Key Laboratory of Radar Signal Processing](https://rsp.xidian.edu.cn/) & [School of Electronic Engineering](https://see.xidian.edu.cn/) & [Xidian University](https://www.xidian.edu.cn/)
 

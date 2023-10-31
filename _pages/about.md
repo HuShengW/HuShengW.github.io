@@ -24,4 +24,7 @@ My research interests include but not limited to <b> Radar Signal Processing, Ra
 
  📰 Selected Publications and Patents
 ======
-I have published 4 papers and 3 patents. 
+I have published 3 journal articles, 1 conference paper and 3 patents. 
+
+All the 3 journal articles are of  indexed by SCI including [Elsevier Signal Processing (IF: 4.4)](https://www.sciencedirect.com/journal/signal-processing) and [IET Radar, Sonar & Navigation (IF: 1.7)](https://ietresearch.onlinelibrary.wiley.com/journal/17518792).
+The conference paper is [IEEE Radar Conference](https://ieeexplore.ieee.org/xpl/conhome/10027857/proceeding) (top conference in Radar society with h5-index 34).

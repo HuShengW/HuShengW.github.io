@@ -16,7 +16,7 @@ Information and Communication Engineering & [National Key Laboratory of Radar Si
 
  👨‍💼 Biography 
 ======
-<b> Husheng Wang </b> is currently a Ph.D Candidate in the School of Electronic Engineering, Xidian University, advised by Prof. Baixiao Chen. He studied as a Ph.D. student at Xidian University in 2022 under the supervision of Prof. Baixiao Chen, both in the National Key Laboratory of Radar Signal Processing. He received his B.S. degree in Information Countermeasure Technology from Xidian University in 2019.
+<b> Husheng Wang </b> is currently a Ph.D. Candidate in the School of Electronic Engineering, Xidian University, advised by Prof. Baixiao Chen. He studied as a Ph.D. student at Xidian University in 2022 under the supervision of Prof. Baixiao Chen, both in the National Key Laboratory of Radar Signal Processing. He received his B.S. degree in Information Countermeasure Technology from Xidian University in 2019.
 
  📚 Research Interests
 ======

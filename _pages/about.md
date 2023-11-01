@@ -29,8 +29,8 @@ I have published 3 journal articles, 1 conference paper and 3 patents.
 - The conference paper is [IEEE Radar Conference (top conference in Radar society with H5-index 18)](https://ieeexplore.ieee.org/xpl/conhome/10027857/proceeding).
 - I have authored 3 Chinese patents.
 
-  🗃️ Research Projects
-  ======
+🗃️ Research Projects
+======
 <b> 1.  Research on anti-chaff interference method and real data processing. </b> [Details] <br />
   🔹 *A novel chaff identification method for adaptive selection of judgment thresholds.*  <br /> 
 <b> 2.  Design of a network against a new intrapulse retransmission interference. </b> [Details] <br />

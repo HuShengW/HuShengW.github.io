@@ -8,6 +8,6 @@ venue: 'IET Radar, Sonar & Navigation'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/rsn2.12302'
 citation: 'Wang, H., et al.: Chaff identification method based on Range-Doppler imaging feature. IET Radar Sonar Navig. 16(11), 1861–1871 (2022). https://doi.org/10.1049/rsn2.12302.'
 ---
-
-[Download paper here](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/rsn2.12302)
+<a href='https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/rsn2.12302' target="_blank"><button style="font-size:12px"><i class="fa fa-file-pdf-o"></i> PDF</button></a>
+<a href='http://Xiaolu1263.github.io/files/Chaff identification method based on Range-Doppler imaging feature.bib' target="_blank"><button style="font-size:12px"><i class="fa fa-book"></i> Bibtex</button></a> <br>
 

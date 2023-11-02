@@ -1,7 +1,7 @@
 ---
 title: "Research on anti-chaff jamming method based on measured data"
 collection: publications
-permalink: /publication/2022-10-10-Chaff identification method based on Range-Doppler imaging feature
+permalink: /publication/Research on anti-chaff jamming method based on measured data
 excerpt: 'An analysis of multi-frame chaff interference measurement data and application of chaff identification methods.'
 date: 2023-7-11
 venue: 'Systems Engineering and Electronics'

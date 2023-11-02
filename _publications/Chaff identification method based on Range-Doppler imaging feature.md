@@ -1,7 +1,7 @@
 ---
 title: "Chaff identification method based on Range-Doppler imaging feature"
 collection: publications
-permalink: /publication/2022-10-10-Chaff identification method based on Range-Doppler imaging feature
+permalink: /publication/Chaff identification method based on Range-Doppler imaging feature
 excerpt: 'A novel chaff identification method for adaptive selection of judgment thresholds.'
 date: 2022-10-10
 venue: 'IET Radar, Sonar & Navigation'

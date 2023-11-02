@@ -1,0 +1,15 @@
+@article{Husheng WANG:2010,
+author = {Husheng WANG, Baixiao CHEN, Qingzhi YE},
+title = {Research on anti-chaff jamming method based on measured data},
+publisher = {Systems Engineering and Electronics},
+year = {2023},
+journal = {Systems Engineering and Electronics},
+volume = {45},
+number = {7},
+eid = {2010},
+numpages = {11},
+pages = {2010},
+keywords = {;chaff jamming; measured data analysis; feature extraction; target recognition; machine learning},
+url = {https://www.sys-ele.com/CN/abstract/article_9296.shtml},
+doi = {10.12305/j.issn.1001-506X.2023.07.11}
+}   

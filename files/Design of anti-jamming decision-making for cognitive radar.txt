@@ -1,0 +1,13 @@
+@article{https://doi.org/10.1049/rsn2.12497,
+author = {Wang, Husheng and Chen, Baixiao and Ye, Qingzhi},
+title = {Design of anti-jamming decision-making for cognitive radar},
+journal = {IET Radar, Sonar \& Navigation},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {cognitive radio, decision making, jamming, markov processes, radar, radar signal processing, radiofrequency interference},
+doi = {https://doi.org/10.1049/rsn2.12497},
+url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/rsn2.12497},
+eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/rsn2.12497},
+abstract = {Abstract With the development of electronic warfare, anti-jamming measure becomes more and more complex. There have been certain research results on jamming strategies, but only a few research materials on anti-jamming strategies. It is difficult to simulate the real jamming environment, and there is no appropriate anti-jamming decision-making model for research. Cognitive radar can perceive the environment and receive feedback, which provides the possibility to solve the problem of anti-jamming decision-making. This article regards the anti-jamming measure as a kind of interaction behaviour and establishes the cognitive radar antagonistic environment model and uses the reinforcement learning algorithm to solve the problem of anti-jamming decision-making. Finally, this article verifies the feasibility of applying reinforcement learning theory on making anti-jamming decision in the radar antagonistic environment model. The performance of different reinforcement learning algorithms is compared, and their advantages and disadvantages are discussed.}
+}

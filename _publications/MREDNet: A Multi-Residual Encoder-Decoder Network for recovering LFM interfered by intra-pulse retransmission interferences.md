@@ -1,7 +1,7 @@
 ---
 title: "MREDNet: A Multi-Residual Encoder-Decoder Network for recovering LFM interfered by intra-pulse retransmission interferences"
 collection: publications
-permalink: /publication/MREDNet: A Multi-Residual Encoder-Decoder Network for recovering LFM interfered by intra-pulse retransmission interferences
+permalink: /publication/MREDNet A Multi-Residual Encoder-Decoder Network for recovering LFM interfered by intra-pulse retransmission interferences
 excerpt: 'A Multi-Residual Encoder-Decoder Network for recovering LFM interfered by intra-pulse retransmission interferences'
 date: 2023-11-19
 venue: 'Signal Processing'

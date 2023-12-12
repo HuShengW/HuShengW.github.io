@@ -1,7 +1,7 @@
 ---
 title: "Design of anti-jamming decision-making for cognitive radar"
 collection: publications
-permalink: /publication/Chaff identification method based on Range-Doppler imaging feature
+permalink: /publication/Design of anti-jamming decision-making for cognitive radar
 excerpt: 'A decision-making technique for selecting anti-jamming measures is based on reinforcement learning.'
 date: 2023-10-24
 venue: 'IET Radar, Sonar & Navigation'
